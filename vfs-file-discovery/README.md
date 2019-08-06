@@ -46,12 +46,12 @@ The low level discovery rule will return all file names with full path via `{#LO
    {"data": [{"{#LOGFILENAME}": "/opt/log/log2.txt"}, {"{#LOGFILENAME}": "/opt/log/log21.txt"}, {"{#LOGFILENAME}": "/opt/log/log11.txt"}, {"{#LOGFILENAME}": "/opt/log/log1.txt"}]}
    ```
    
-   So, in the end we should get json that will be parsed by zabbix.
-   
    ```
    [root@local2 ~]# zabbix_agentd -t discovery.logfile.path
    discovery.logfile.path                        [t|{"data": [{"{#LOGFILENAME}": "/opt/log/log2.txt"}, {"{#LOGFILENAME}": "/opt/log/log21.txt"}, {"{#LOGFILENAME}": "/opt/log/log11.txt"}, {"{#LOGFILENAME}": "/opt/log/log1.txt"}]}]
    ```
+   
+   So, in the end we should get json that will be parsed by zabbix.
 
 1. Template should be imported into zabbix frontend.
 
