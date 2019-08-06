@@ -1,5 +1,5 @@
 ## Introduction
-The low level discovery rule will return all file names with full path via `{#LOGFILENAME}`
+The low level discovery rule will return all file names with full path via `{#LOGFILENAME}`.
 
 ## Installation
 1. Zabbix agent should be installed and properly configured on linux server.
@@ -70,7 +70,7 @@ The low level discovery rule will return all file names with full path via `{#LO
 ![Trigger_config](screenshots/zbx_file_discovery_trigger_config.PNG)
    
 ## Notes
-Custom script has been written using Python 3.7
+Custom script has been written using Python 3.7.
 
-Template were created and tested on Zabbix 4.2.4 and CentOS Linux release 7.6.1810 (Core)
+Template were created and tested on Zabbix 4.2.4 and CentOS Linux release 7.6.1810 (Core).
 
