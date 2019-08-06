@@ -56,18 +56,18 @@ The low level discovery rule will return all file names with full path via `{#LO
 1. Template should be imported into zabbix frontend.
    
 ## Screenshots from Zabbix frontend
+
+![Template](screenshots/zbx_file_discovery_template.PNG)
    
-   ![Template](screenshots/zbx_file_discovery_template.PNG)
+![Rule](screenshots/zbx_file_discovery_rule.PNG)
    
-   ![Rule](screenshots/zbx_file_discovery_rule.PNG)
+![Itme](screenshots/zbx_file_discovery_item.PNG)
    
-   ![Itme](screenshots/zbx_file_discovery_item.PNG)
+![Itme_config](screenshots/zbx_file_discovery_item_config.PNG)
    
-   ![Itme_config](screenshots/zbx_file_discovery_item_config.PNG)
+![Trigger](screenshots/zbx_file_discovery_trigger.PNG)
    
-   ![Trigger](screenshots/zbx_file_discovery_trigger.PNG)
-   
-   ![Trigger_config](screenshots/zbx_file_discovery_trigger_config.PNG)
+![Trigger_config](screenshots/zbx_file_discovery_trigger_config.PNG)
    
 ## Notes
 Custom script has been written using Python 3.7
