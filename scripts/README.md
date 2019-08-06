@@ -19,4 +19,4 @@ Here we have two scripts that was designed to fetch specific data from Zabbix vi
 
 ## Notes
 
-Custom scripts were written using Python 3.7
+Custom scripts were written using Python 3.7 and tested on Zabbix 4.2.4.
