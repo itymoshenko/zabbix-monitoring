@@ -55,5 +55,10 @@ The low level discovery rule will return all file names with full path via `{#LO
 
 1. Template should be imported into zabbix frontend.
 
+## Screenshots from Zabbix frontend
+
 ## Notes
+Custom script has been written using Python 3.7
+
+Template were created and tested on Zabbix 4.2.4 and CentOS Linux release 7.6.1810 (Core)
 
