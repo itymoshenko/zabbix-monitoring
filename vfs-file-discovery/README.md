@@ -9,7 +9,7 @@ The low level discovery rule will return all file names with full path via `{#LO
    `# chmod +x /etc/zabbix/scripts/vfs-file-discovery.py`
 1. User Parameter should be configured in a needed way. Example below. 
 
-   Zabbix agent configuration you can place in some separate config file.
+   User Parameter configuration you can place in some separate config file.
    ```
    [root@local2 ~]# cat /etc/zabbix/zabbix_agentd.d/userparameter_file_discovery.conf
    # Using for file LLD
