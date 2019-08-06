@@ -1,6 +1,6 @@
 ## Zabbix monitoring 
 
-Collection of custom python scripts and Zabbix templates that could show you how can interract with Zabbix.
+Collection of custom python scripts and Zabbix templates that could show you how can interact with Zabbix.
 
 ## Overview
 
